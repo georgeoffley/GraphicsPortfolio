@@ -21,6 +21,7 @@ I am interested in learning more about Graphics programming, rendering, C++, and
 ---
 ### Coding Projects
 - [OpenGlWindowColor](https://github.com/georgeoffley/OpenGlWindowColor) - A simple window with a custom color using C++ and OpenGL
+- [OpenGL-Triangle](https://github.com/georgeoffley/OpenGL-Triangle) - A simple triangle in OpenGL
 
 ---
 ### Art Projects
